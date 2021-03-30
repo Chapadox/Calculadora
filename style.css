@@ -1,0 +1,39 @@
+body{
+    background-color: #343f56;
+    width: 600px;
+}
+
+#divTitle{
+    font-size: 50px;
+    color: white;
+    position: relative;
+    left: 630px;
+    font-family: Cursive; 
+}
+
+#input1, #input2{
+    border-radius: 10px;
+    width: 150px;
+    height: 28px;
+    text-align: center;
+    position: relative;
+    left: 600px;
+    top: 30px;
+}
+
+#mais, #menos, #vezes,  #divisao{
+    width: 30px;
+    height: 25px;
+    color: black;
+    background-color: white;
+    position: relative;
+    left: 700px;
+    top: 40px;
+}
+
+#div{
+    position: relative;
+    left: 730px;
+    top: 200px;
+    font-size: 50px;
+}
